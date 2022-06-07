@@ -12,6 +12,11 @@
   "iris.sodium.failure.reason.notFound": "O Iris exige o Sodium para maior desempenho, mas o Sodium não está instalado. Baixe o Sodium, coloque na pasta de mods e depois reinicie o jogo.",
   "iris.sodium.failure.reason.incompatible": "O Iris exige o Sodium para maior desempenho, mas uma versão incompatível foi encontrada. Baixe a versão correta do Sodium, coloque na pasta de mods, delete a versão incorreta e reinicie o jogo.",
 
+  "iris.shaders.debug.enabled": "Debugging ativado. Mais mensagens Debug e 'verbose' maior aparecerão no log!",
+  "iris.shaders.debug.disabled": "Debug Desativado",
+  "iris.shaders.debug.failure": "Não foi possivel ativar o debug, seu computador não suporta debbuging.",
+  "iris.shaders.debug.restart": "Você não tem um contexto para o debug. Reinicie e tente novamente.",
+
   "options.iris.apply": "Aplicar",
   "options.iris.refresh": "Atualizar",
   "options.iris.openShaderPackFolder": "Pasta das Shaders",
